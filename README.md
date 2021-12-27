@@ -1,8 +1,7 @@
-# SAS_Curiosity_Cup Data Sets : Cryptocurrencies price and news papers
+# SAS_Curiosity_Cup Data Sets : Prices and news papers of cryptocurrencies
 
-This reposotory contains the data sets which the Team ... use for the Curiosity Cup 20222. These data sets have been obtained by scraping and refer to history of crypto-currency prices and papers between December 04th 2017 and December 15th 2017.
-
-The file crypto_newspapers.csv has as delimiter the character "<".
-
-Regards
-
+This reposotory contains the data sets which the Team ... use for the Curiosity Cup 2022.
++ Cryptocurrency news papers : **crypto_newspapers.csv which has as delimiter the character "<"**.
++ Bitcoin's prices and value history : **history_btc.sas7bdat**
++ Ethereum's prices and value history : **history_eth.sas7bdat**
++ Binance Coin's prices and value history : **history_bnb.sas7bdat**
