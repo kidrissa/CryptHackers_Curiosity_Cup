@@ -1,4 +1,4 @@
-# SAS_Curiosity_Cup Data Sets : Prices and news papers of cryptocurrencies
+# SAS Curiosity Cup Data Sets : Prices and news papers of cryptocurrencies
 
 This reposotory contains the data sets which the Team ... use for the Curiosity Cup 2022.
 + Cryptocurrency news papers : **crypto_newspapers.csv which has as delimiter the character "<"**.
